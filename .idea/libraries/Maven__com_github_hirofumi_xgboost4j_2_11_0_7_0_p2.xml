@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.hirofumi:xgboost4j_2.11:0.7.0-p2">
+    <CLASSES>
+      <root url="jar://D:/repository/com/github/hirofumi/xgboost4j_2.11/0.7.0-p2/xgboost4j_2.11-0.7.0-p2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/repository/com/github/hirofumi/xgboost4j_2.11/0.7.0-p2/xgboost4j_2.11-0.7.0-p2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/repository/com/github/hirofumi/xgboost4j_2.11/0.7.0-p2/xgboost4j_2.11-0.7.0-p2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

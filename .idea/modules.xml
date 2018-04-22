@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringShiroDemo/SpringShiroDemo.iml" filepath="$PROJECT_DIR$/SpringShiroDemo/SpringShiroDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringSpark.iml" filepath="$PROJECT_DIR$/SpringSpark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark221/spark221.iml" filepath="$PROJECT_DIR$/spark221/spark221.iml" />
+    </modules>
+  </component>
+</project>
